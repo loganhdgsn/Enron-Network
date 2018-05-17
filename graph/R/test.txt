@@ -1,0 +1,12 @@
+num,name1,name2,emails
+1,alex,alice,208
+2,alex,bob,4
+3,alex,logan,124
+4,alice,bob,42
+5,alice,joe,32
+6,bob,steve,36
+7,bob,logan,2
+8,joe,carl,82
+9,carl,alice,20
+10,carl,alex,24
+11,carl,john,10
